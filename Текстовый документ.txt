@@ -1,0 +1,2 @@
+print("Hello everyone!");
+print("Artem sigma mewing monster");
